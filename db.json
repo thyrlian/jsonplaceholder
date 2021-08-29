@@ -31,6 +31,38 @@
       "art": "https://pbs.twimg.com/media/DENAPpEXcAAUB8o?format=jpg&name=large",
       "intentAction": "",
       "intentData": "https://youtu.be/cJFlUsQXuFs"
+    },
+    {
+      "id": "mobius_moscow_2017_speaker",
+      "title": "Mobius Conf Moscow 2017 演讲",
+      "description": "李晶先生在Mobius Conf Moscow 2017做的主题演讲",
+      "art": "https://media-exp1.licdn.com/dms/image/C4D2DAQHGrtQWFNAhlQ/profile-treasury-image-shrink_1920_1920/0/1630249118025?e=1630339200&v=beta&t=YLSlbd6uWX48DL4Cpq4YLvYLddrNlqhpGXyBBFhcKmE",
+      "intentAction": "",
+      "intentData": ""
+    },
+    {
+      "id": "mobius_moscow_2017_1",
+      "title": "Mobius Conf Moscow 2017 演讲",
+      "description": "李晶先生在Mobius Conf Moscow 2017做的主题演讲",
+      "art": "https://pbs.twimg.com/media/DOV7pAeWsAEHrGp?format=jpg&name=large",
+      "intentAction": "",
+      "intentData": ""
+    },
+    {
+      "id": "mobius_moscow_2017_2",
+      "title": "Mobius Conf Moscow 2017 演讲",
+      "description": "李晶先生在Mobius Conf Moscow 2017做的主题演讲",
+      "art": "https://pbs.twimg.com/media/DOV7pAeXkAAJqRB?format=jpg&name=large",
+      "intentAction": "",
+      "intentData": ""
+    },
+    {
+      "id": "droidcon_beijing_2017",
+      "title": "北京2017安卓技术大会演讲",
+      "description": "李晶先生在北京2017安卓技术大会(droidcon Beijing)做的主题演讲",
+      "art": "https://media-exp1.licdn.com/dms/image/C4D2DAQFdlDsf2DfzRA/profile-treasury-image-shrink_1280_1280/0/1630249053485?e=1630339200&v=beta&t=VGxVJQIsLhzF0_MTW0YVQc1r8sOjZ8Z2v-ZuUSC0u5I",
+      "intentAction": "",
+      "intentData": ""
     }
   ]
 }
